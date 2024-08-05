@@ -1,0 +1,9 @@
+{
+    "exclude": ["**/node_modules/**", "**/temp/**"],
+    "compilerOptions": {
+        "checkJs": true,
+        "module": "node16",
+        "moduleResolution": "node16",
+        "target": "esnext",
+    },
+}
